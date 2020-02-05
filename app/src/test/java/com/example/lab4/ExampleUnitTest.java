@@ -1,4 +1,4 @@
-package com.example.quicar;
+package com.example.lab4;
 
 import org.junit.Test;
 
